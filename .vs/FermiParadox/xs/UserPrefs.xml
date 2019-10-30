@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3D958E01-9CE2-55BE-06AE-8B1E62E29972}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Movement.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Movement.cs" Line="16" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FermiParadox" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="51cddf78-1490-46ee-bbce-e2a2b3571182" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
